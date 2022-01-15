@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "firebase-admin": "^10.0.1",
+    "next": "latest",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-hot-toast": "^2.2.0",
+    "react-icons": "^4.3.1"
+  },
+  "devDependencies": {
+    "firebase": "^9.6.2"
+  }
+}
